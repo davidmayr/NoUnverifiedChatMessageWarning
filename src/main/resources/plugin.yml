@@ -1,0 +1,7 @@
+name: NoUnverifiedChatMessageWarning
+author: MenschenToaster
+api-version: 1.19
+version: 1.0-SNAPSHOT
+main: at.toastiii.nounverifiedchatmessagewarning.NoUnverifiedChatMessageWarning
+depend:
+  - ProtocolLib
